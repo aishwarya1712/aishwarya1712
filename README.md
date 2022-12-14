@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya1712&theme=tokyonight&theme=tokyonight" />
 </p>
 
-<h1 align="center">🧰 Languages and Tools</h3>
-<p align="center">
+<h3 align="left">🧰 Languages and Tools</h3>
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/480px-Elasticsearch_logo.svg.png" alt="Elasticsearch" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
