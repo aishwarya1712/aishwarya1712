@@ -26,3 +26,16 @@ Here are some ideas to get you started:
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aishwarya1712&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya1712&theme=tokyonight&theme=tokyonight" />
 </p>
+
+## 🧰 Languages and Tools:
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/480px-Elasticsearch_logo.svg.png" alt="Elasticsearch" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/500px-Angular_full_color_logo.svg.png" alt="Angular" height="40" style="vertical-align:top; margin:4px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/242px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+
+
+</p>
