@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello there! 👋 I'm Aishwarya Sriram.</h1>
-<h3 align="center">A fullstack developer from India</h3>
+<h3 align="center">I'm a fullstack developer</h3>
 
 
 - 🌱 I’m currently learning: Redux, Software Architecture, AWS
