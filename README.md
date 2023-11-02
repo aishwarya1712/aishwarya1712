@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning: Redux, Software Architecture, AWS
-- 📫 How to reach me: 98.aishu@gmail.com or [LinkedIn](http://www.linkedin.com/in/aishwarya-sriram)
+- 📫 How to reach me: aishwarya_sriram@berkeley.edu or [LinkedIn](http://www.linkedin.com/in/aishwarya-sriram)
 - 😄 Pronouns: She/Her/Hers
 - 💬 Ask me about: Java, Elasticsearch, React, JavaScript
 
